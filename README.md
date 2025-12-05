@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Unity, C# and web development!
-- 🔭 I’m currently working on a penguin game in Unity
+- 🔭 I’m currently working on a farming sim in Unity
+- 🪼 [Link to the Figma prototype for my course registration design project](https://www.figma.com/proto/OdemGW0vqRw4JBt9aqEDuz/Prototype-Planning?node-id=0-1&t=CfzGrDR3vNJw683E-1)
 
 Thanks for visiting! 🐧
