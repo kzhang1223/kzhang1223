@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Unity, C# and web development!
-- 🔭 I’m currently working on a farming sim in Unity
-- 🪼 [Link to the Figma prototype for my course registration design project](https://www.figma.com/proto/OdemGW0vqRw4JBt9aqEDuz/Prototype-Planning?node-id=0-1&t=CfzGrDR3vNJw683E-1)
+- 🌱 I’m currently learning UI/UX
+- 🔭 I’m currently working on creating fun sites in Figma
+- 🪼 [Portfolio](https://kathyz.figma.site/introduction) (work in progress)
 
 Thanks for visiting! 🐧
